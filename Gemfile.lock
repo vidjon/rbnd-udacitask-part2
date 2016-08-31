@@ -1,10 +1,17 @@
 GEM
+  remote: https://rubygems.org/
   specs:
+    chronic (0.10.2)
+    colorize (0.7.7)
+    formatador (0.2.5)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  chronic (= 0.10.2)
+  colorize (= 0.7.7)
+  formatador (= 0.2.5)
 
 BUNDLED WITH
    1.11.2
