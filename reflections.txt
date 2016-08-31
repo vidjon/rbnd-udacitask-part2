@@ -1,13 +1,22 @@
 # What you added to Udacitask 2.0
 # -------------------------------------------------------
 1. What is the gem of your choice and how did you use it?
+    'formatador' And I used to print out every collection of item types in the items
+    with their instance variables and values
 2. Describe the 2 features you added to the project.
-  a) Feature 1...
-  b) Feature 2...
+  a) itemsDueWithinNextOfDays(number_of_days)
+     Get all items that are due within the next number of days
+  b) printItemsInTable
+     I looped through all of the item_types in the @items collection and printed out a table with a gem
+     formatador for each item_type
 
 # REFLECTIONS
 # -------------------------------------------------------
 1. How long did you spend working on this project?
+    Few hours in total
 2. What was the most rewarding challenge you conquered?
+    It was creating the for loops to loop through the items and the items instance variables
 3. What two additional features did you build? Why?
+    See above. First to try to work with dates in Ruby and then to test to loop through instance variables
 4. Where do you still have room to grow?
+    Understanding hashes and their methods better
